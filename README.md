@@ -1,6 +1,7 @@
 ### Hi there 🔭 
 
 I’m currently working on some awesome web apps using JavaScript... I will have some demos for the public soon! 
+
 Find me on LinkedIn :: https://www.linkedin.com/in/shawntsuttle/
 
 <!--
