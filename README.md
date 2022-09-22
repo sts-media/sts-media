@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 🔭 
+
+I’m currently working on some awesome web apps using JavaScript... I will have some demos for the public soon! 
+Find me on LinkedIn :: https://www.linkedin.com/in/shawntsuttle/
 
 <!--
 **sts-media/sts-media** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
